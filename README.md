@@ -11,4 +11,4 @@ https://store.nat2k15.xyz/store/framework-v2
 - Supports all cars
 
 # Showcase
-[![Watch the video](https://i.imgur.com/OqElaca.png)](https://www.youtube.com/T5cpBuAUEE4)
+[![Watch the video](https://i.imgur.com/OqElaca.png)](https://youtu.be/T5cpBuAUEE4)
