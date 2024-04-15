@@ -4,6 +4,7 @@ $(function() {
         var item = event.data;
         if (item.type === "ui") {
             $("body").show();
+            console.log(`showing body`);
             $('#tint').html(`<b>${item.tint}</b>`); // item.tint
         }
     });
